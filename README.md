@@ -1,2 +1,1 @@
-# Fullcicle
-Repository for all content from Full Cicle course 
+# Full Cicle 3.0
