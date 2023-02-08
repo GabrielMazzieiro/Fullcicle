@@ -4,8 +4,7 @@ WORKDIR /usr/src/app
 
 COPY . .
 
-RUN npm init && \
-    npm install --save mysql
+RUN npm install 
     
 EXPOSE 5000
 
